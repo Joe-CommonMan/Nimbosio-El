@@ -1,0 +1,2 @@
+(Some symbols still might be from unedited Arial Black) A free version of Nimbus Sans L Black thats compatible with Arial Black in metrics and kerning rather than being a minor edit of Nimbus Sans T (old small point Helvetica) that was sadly official by URW and not free. Bonus alternate style R for Arial black ⅷ(capital) ⅸⅸ(small caps) ⅶ (Yacyr) ⅵ(small caps) ⅴⅴ(lower case)
+⃆(R dollar style currency) ⇐⇑⇒⇓⇔⇕⇖⇗⇘⇙(Arial style numbers 0to9)
